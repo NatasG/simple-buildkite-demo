@@ -1,1 +1,1 @@
-echo '-----------------third branch runing unit tests -----------------'
+echo '-----------------ci skip runing unit tests -----------------'
