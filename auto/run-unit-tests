@@ -1,1 +1,1 @@
-echo '-----------------ci skip runing unit tests -----------------'
+echo '-----------------skip runing unit tests -----------------'
