@@ -1,4 +1,10 @@
 steps:
+  - command: "echo 'try plugin'"
+    label: "Try plugin"
+    plugins:
+      - natasg/test#v1.0.0:
+          message: 'World'
+
   - command: "./auto/run-unit-tests"
     label: "Run unit tests"
 
